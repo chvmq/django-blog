@@ -1,0 +1,11 @@
+#DATABASES
+*.db
+*.sqlite3
+
+#migrations
+
+migrations/
+
+#pyc
+
+*.pyc
