@@ -9,3 +9,8 @@ migrations/
 #pyc
 
 *.pyc
+
+
+#__pycache__ same that pyc
+
+__pycache__/
