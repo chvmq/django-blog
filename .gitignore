@@ -14,3 +14,11 @@ migrations/
 #__pycache__ same that pyc
 
 __pycache__/
+
+
+
+#bootstrap
+static/
+*.map
+*.js
+*.css
